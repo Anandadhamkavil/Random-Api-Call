@@ -1,12 +1,10 @@
 export class Users{
-    id?:Number
     firstName?:string
-    lastName?:string
-    username?:string
-    gender?:string
     email?:string
     image?:string
-    city?:string
+    birthDate?:string
     name?:string
     title?:string
+    age?:string
+    phone?:string
 }
